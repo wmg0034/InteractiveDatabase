@@ -1,5 +1,5 @@
 # Interactive Pokedex
-This is a small WIP project to gain some familiarity with Flask. At the moment, it is a web app that allows the user to obtain information about Pokemon from a database locally hosted with Microsoft SQL Server Express. Below is a clip of the web app.
+This is a small WIP project to gain some familiarity with Flask, Dash, and Microsoft SQL Server. It's a web app that allows the user to obtain information about Pokemon from a database locally hosted with Microsoft SQL Server Express. Below is a clip of the web app.
 
 https://github.com/user-attachments/assets/9eaf8850-0a6c-42aa-bd94-88c974ef9c13
 
